@@ -1,4 +1,4 @@
-# A repository with dynamo-db examples
+# A repository with spring-boot dynamo-db examples
 
 Refs: 
 https://betterprogramming.pub/how-to-set-up-a-local-dynamodb-in-a-docker-container-and-perform-the-basic-putitem-getitem-38958237b968
